@@ -1,0 +1,23 @@
+/*
+Theme Name: Catch Evolution
+*/
+/*
+Used to style the TinyMCE editor.
+*/
+html .mceContentBody {
+	direction: rtl;
+	unicode-bidi: embed;
+	float: right;
+}
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+ul, ol {
+	margin: 0 2.5em 2em 0;
+}
+blockquote {
+	font-style: normal;
+}
+table {
+	text-align: right;
+}

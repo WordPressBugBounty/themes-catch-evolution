@@ -1,0 +1,1610 @@
+# Copyright (C) 2012-2022 the Catch Themes Team
+# This file is distributed under the  GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Evolution\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2023-12-13 21:42+0545\n"
+"PO-Revision-Date: 2023-12-13 21:42+0545\n"
+"Last-Translator: Valdir Trombini <valdirtrombini@hotmail.com>\n"
+"Language-Team: Valdir Trombini <valdirtrombini@hotmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../404.php:12
+msgid "Error 404 - Page Not Found."
+msgstr "Erro 404 - Página não encontrada."
+
+#: ../404.php:16
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Parece que não podemos encontrar o que você está buscando."
+
+#: ../404.php:17
+msgid "This might be because:"
+msgstr "Isso pode ser porquê:"
+
+#: ../404.php:18
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Examine por favor, se digitou o endereço da Web de forma correta no "
+"navegador, ou também pode ser que a página que você está procurando tenha "
+"sido movida, atualizada ou excluída. "
+
+#: ../404.php:19
+msgid "Please try the following options instead:"
+msgstr "Por favor, tente alternativamente as seguintes opções:"
+
+#: ../404.php:20
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser or Use the search box below."
+msgstr ""
+"Verifique com calma, se há um erro de digitação no <acronym "
+"title=\"Significa em inglês Uniform Resource Locator, forma padronizada de "
+"representação de diferentes documentos, mídia e serviços de rede na "
+"internet, capaz de fornecer a cada documento um endereço único.\">URL</"
+"acronym> (Endereço na Web), pressione o botão de atualizar (Recarregar a "
+"página) do seu navegador ou (F5 do teclado), ou use a caixa de pesquisa "
+"abaixo, para procurar por outro termo semelhante."
+
+#: ../archive.php:40 ../author.php:67 ../category.php:43 ../index.php:31
+#: ../page-blog.php:63 ../search.php:37 ../tag.php:43
+msgid "Nothing Found"
+msgstr "Sua pesquisa não gerou um resultado válido!"
+
+#: ../archive.php:44 ../author.php:71 ../category.php:47 ../index.php:35
+#: ../page-blog.php:67 ../tag.php:47
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Desculpe-nos, mas nenhum resultado foi encontrado para o arquivo solicitado. "
+"Talvez a caixa de pesquisa, com algum outro termo semelhante, vá ajudar a "
+"encontrar um post relacionado."
+
+#: ../author.php:23
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Arquivos do autor: %s"
+
+#: ../author.php:42 ../content-single.php:74
+#, php-format
+msgid "About %s"
+msgstr "Sobre: %s"
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Arquivos da categoria: %s"
+
+#: ../comments.php:15
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Este post é protegido por senha. Digite a senha para ver todo o conteúdo, e "
+"também os comentários."
+
+#: ../comments.php:34
+#, fuzzy, php-format
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Um Comentário para: &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:54 ../comments.php:74
+msgid "Comment navigation"
+msgstr "Navegação dos comentários"
+
+#: ../comments.php:55 ../comments.php:75
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: ../comments.php:56 ../comments.php:76
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: ../comments.php:86
+msgid "Comments are closed."
+msgstr "Comentários estão desabilitados no momento."
+
+#: ../content-aside.php:14 ../content-featured.php:12 ../content-gallery.php:14
+#: ../content-gallery.php:46 ../content-image.php:13 ../content-link.php:14
+#: ../content-page.php:11 ../content-quote.php:12 ../content-status.php:14
+#: ../content.php:21 ../content.php:54 ../inc/catchevolution-functions.php:585
+#, php-format
+msgid "Permalink to %s"
+msgstr "Link permanente para: %s"
+
+#: ../content-aside.php:15
+msgid "Aside"
+msgstr "de lado"
+
+#: ../content-aside.php:20 ../content-aside.php:46 ../content-gallery.php:91
+#: ../content-image.php:66 ../content-link.php:20 ../content-link.php:46
+#: ../content-quote.php:21 ../content-quote.php:74 ../content-single.php:19
+#: ../content-status.php:20 ../content-status.php:48 ../content.php:32
+#: ../content.php:106
+msgid "Leave a reply"
+msgstr "Deixe um Comentário!"
+
+#: ../content-aside.php:20 ../content-aside.php:46 ../content-gallery.php:91
+#: ../content-image.php:66 ../content-link.php:20 ../content-link.php:46
+#: ../content-quote.php:21 ../content-quote.php:74 ../content-single.php:19
+#: ../content-status.php:20 ../content-status.php:48 ../content.php:32
+#: ../content.php:106
+msgid "1 Comment &darr;"
+msgstr "1 Comentário &darr;"
+
+#: ../content-aside.php:20 ../content-aside.php:46 ../content-gallery.php:91
+#: ../content-image.php:66 ../content-link.php:20 ../content-link.php:46
+#: ../content-quote.php:21 ../content-quote.php:74 ../content-single.php:19
+#: ../content-status.php:20 ../content-status.php:48 ../content.php:32
+#: ../content.php:106
+msgid "% Comments &darr;"
+msgstr "<b>%</b> Comentários &darr;"
+
+#: ../content-aside.php:31 ../content-gallery.php:30 ../content-link.php:31
+#: ../content-quote.php:34 ../content-status.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "&hellip; Continue lendo&hellip; <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-aside.php:33 ../content-featured.php:22 ../content-gallery.php:53
+#: ../content-image.php:25 ../content-link.php:33 ../content-page.php:17
+#: ../content-quote.php:36 ../content-single.php:29 ../content-status.php:35
+#: ../content.php:66 ../image.php:85
+msgid "Pages:"
+msgstr "Páginas: "
+
+#: ../content-aside.php:48 ../content-featured.php:49 ../content-gallery.php:94
+#: ../content-image.php:70 ../content-link.php:48 ../content-page.php:25
+#: ../content-quote.php:77 ../content-single.php:62 ../content-status.php:50
+#: ../content.php:109 ../image.php:95 ../inc/catchevolution-functions.php:336
+#: ../inc/catchevolution-functions.php:364
+msgid "Edit"
+msgstr "Editar"
+
+#: ../content-featured.php:33 ../content-featured.php:42
+#: ../content-gallery.php:66 ../content-gallery.php:76 ../content-image.php:49
+#: ../content-image.php:58 ../content-quote.php:49 ../content-quote.php:59
+#: ../content-single.php:40 ../content-single.php:43 ../content.php:80
+#: ../content.php:90
+msgid ", "
+msgstr ", "
+
+#: ../content-featured.php:35
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Este post foi publicado em: %1$s com as Tags: %2$s. Arquivado em: <a "
+"href=\"%3$s\" title=\"Link permanente para: %4$s\" rel=\"bookmark\">Link "
+"permanente</a>."
+
+#: ../content-featured.php:37
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Este post foi publicado em: %1$s. Arquivado em: <a href=\"%3$s\" "
+"title=\"Link permanente para: %4$s\" rel=\"bookmark\">Link permanente</a>."
+
+#: ../content-gallery.php:15
+msgid "Gallery"
+msgstr "Galeria"
+
+#: ../content-gallery.php:45
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Esta galeria contém <a %1$s>%2$s fotografia</a>."
+msgstr[1] "Esta galeria contém <a %1$s>%2$s fotografias</a>."
+
+#: ../content-gallery.php:70 ../content-image.php:53 ../content-quote.php:53
+#: ../content.php:84
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Postado em:</span> %2$s"
+
+#: ../content-gallery.php:82 ../content-image.php:61 ../content-quote.php:65
+#: ../content.php:96
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">com as Tags:</span> %2$s"
+
+#: ../content-image.php:14
+msgid "Image"
+msgstr "Imagem"
+
+#: ../content-image.php:36
+#, php-format
+msgid ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date updated\" "
+"datetime=\"%2$s\" pubdate>%3$s</time></a><span class=\"by-author\"> <span "
+"class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" "
+"href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date updated\" "
+"datetime=\"%2$s\" pubdate>%3$s</time></a><span class=\"by-author\"> <span "
+"class=\"sep\"> por: </span> <span class=\"author vcard\"><a class=\"url fn "
+"n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+#: ../content-image.php:41 ../inc/catchevolution-functions.php:413
+#, php-format
+msgid "View all posts by %s"
+msgstr "Ver todas as postagens de: %s"
+
+#: ../content-link.php:15
+msgid "Link"
+msgstr "Link"
+
+#: ../content-quote.php:13
+msgid "Quote"
+msgstr "Citar"
+
+#: ../content-single.php:45
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. "
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Este post foi publicado em: %1$s com as Tags: %2$s por: <a "
+"href=\"%6$s\">%5$s</a>. Arquivado em: <a href=\"%3$s\" title=\"Link "
+"permanente para: %4$s\" rel=\"bookmark\">Link permanente</a>."
+
+#: ../content-single.php:47
+#, php-format
+msgid ""
+"This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Este post foi publicado em: %1$s por: <a href=\"%6$s\">%5$s</a>. Arquivado "
+"em: <a href=\"%3$s\" title=\"Link permanente para: %4$s\" "
+"rel=\"bookmark\">Link permanente</a>."
+
+#: ../content-single.php:49
+#, php-format
+msgid ""
+"This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Este post foi publicado por: <a href=\"%6$s\">%5$s</a>. Arquivado em: <a "
+"href=\"%3$s\" title=\"Link permanente para: %4$s\" rel=\"bookmark\">Link "
+"permanente</a>."
+
+#: ../content-single.php:78
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ver todas as postagens de: %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-status.php:15
+msgid "Status"
+msgstr "Status"
+
+#: ../content.php:23
+msgid "Featured"
+msgstr "Destaque"
+
+#: ../functions.php:148
+msgid "Fixed Header Top Menu"
+msgstr "Menu de cabeçalho fixado no topo"
+
+#: ../functions.php:149 ../inc/catchevolution-menus.php:94
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: ../functions.php:150 ../inc/catchevolution-menus.php:135
+msgid "Secondary Menu"
+msgstr "Menu secundário"
+
+#: ../functions.php:151 ../inc/catchevolution-menus.php:244
+msgid "Footer Menu"
+msgstr "Menu do rodapé"
+
+#: ../functions.php:211
+msgid "Small"
+msgstr ""
+
+#: ../functions.php:212
+msgid "S"
+msgstr ""
+
+#: ../functions.php:217
+msgid "Normal"
+msgstr ""
+
+#: ../functions.php:218
+msgid "M"
+msgstr ""
+
+#: ../functions.php:223
+msgid "Large"
+msgstr ""
+
+#: ../functions.php:224
+msgid "L"
+msgstr ""
+
+#: ../functions.php:229
+msgid "Huge"
+msgstr ""
+
+#: ../functions.php:230
+msgid "XL"
+msgstr ""
+
+#: ../image.php:13
+msgid "Image navigation"
+msgstr "Navegação das imagens"
+
+#: ../image.php:14
+msgid "&larr; Previous"
+msgstr "&larr;  Anterior"
+
+#: ../image.php:15
+msgid "Next &rarr;"
+msgstr "Próximo &rarr;"
+
+#: ../image.php:25
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>"
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publicado no dia: </span> "
+"<span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</"
+"abbr></span> - tamanho: <a href=\"%3$s\" title=\"Link para a imagem no "
+"tamanho original\">%4$s &times; %5$s</a> - em: <a href=\"%6$s\" "
+"title=\"Voltar para: %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: ../inc/catchevolution-functions.php:250 ../single.php:13
+msgid "Post navigation"
+msgstr "Navegação das postagens"
+
+#: ../inc/catchevolution-functions.php:258
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Postagens Anteriores"
+
+#: ../inc/catchevolution-functions.php:259
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Postagens Recentes <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/catchevolution-functions.php:336
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/catchevolution-functions.php:353
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s no dia %2$s <span class=\"says\">disse:</span>"
+
+#: ../inc/catchevolution-functions.php:359
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+#: ../inc/catchevolution-functions.php:368
+msgid "Your comment is awaiting moderation."
+msgstr ""
+"<strong>Seu Comentário está aguardando a nossa moderação. Obrigado por "
+"Comentar!</strong>"
+
+#: ../inc/catchevolution-functions.php:377
+msgid "Reply <span>&darr;</span>"
+msgstr "Responder <span>&darr;</span>"
+
+#: ../inc/catchevolution-functions.php:407
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\"><time class=\"entry-date updated\" datetime=\"%3$s\" "
+"pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </"
+"span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep\">Postado em: </span><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\"><time class=\"entry-date updated\" datetime=\"%3$s\" "
+"pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> por: "
+"</span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: ../inc/catchevolution-functions.php:482
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/catchevolution-functions.php:687
+msgid "Name"
+msgstr "Nome"
+
+#: ../inc/catchevolution-functions.php:689
+#: ../inc/catchevolution-functions.php:896
+#: ../inc/catchevolution-functions.php:1098
+#: ../inc/panel/customizer/customizer.php:625
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/catchevolution-functions.php:801
+#: ../inc/catchevolution-functions.php:1003
+#: ../inc/panel/customizer/customizer.php:435
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/catchevolution-functions.php:806
+#: ../inc/catchevolution-functions.php:1008
+#: ../inc/panel/customizer/customizer.php:445
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchevolution-functions.php:811
+#: ../inc/catchevolution-functions.php:1013
+#: ../inc/panel/customizer/customizer.php:455
+msgid "Google+"
+msgstr "Google+"
+
+#: ../inc/catchevolution-functions.php:816
+#: ../inc/catchevolution-functions.php:1018
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../inc/catchevolution-functions.php:821
+#: ../inc/catchevolution-functions.php:1023
+#: ../inc/panel/customizer/customizer.php:465
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/catchevolution-functions.php:826
+#: ../inc/catchevolution-functions.php:1028
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/catchevolution-functions.php:831
+#: ../inc/catchevolution-functions.php:1033
+#: ../inc/panel/customizer/customizer.php:485
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/catchevolution-functions.php:836
+#: ../inc/catchevolution-functions.php:1038
+#: ../inc/panel/customizer/customizer.php:505
+msgid "AIM"
+msgstr "AIM"
+
+#: ../inc/catchevolution-functions.php:841
+#: ../inc/catchevolution-functions.php:1043
+#: ../inc/panel/customizer/customizer.php:515
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../inc/catchevolution-functions.php:846
+#: ../inc/catchevolution-functions.php:1048
+#: ../inc/panel/customizer/customizer.php:525
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/catchevolution-functions.php:851
+#: ../inc/catchevolution-functions.php:1053
+#: ../inc/panel/customizer/customizer.php:535
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/catchevolution-functions.php:856
+#: ../inc/catchevolution-functions.php:1058
+#: ../inc/panel/customizer/customizer.php:545
+msgid "deviantART"
+msgstr "deviantART"
+
+#: ../inc/catchevolution-functions.php:861
+#: ../inc/catchevolution-functions.php:1063
+#: ../inc/panel/customizer/customizer.php:555
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/catchevolution-functions.php:866
+#: ../inc/catchevolution-functions.php:1068
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:270
+#: ../inc/panel/customizer/customizer.php:565
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/catchevolution-functions.php:871
+#: ../inc/catchevolution-functions.php:1073
+#: ../inc/panel/customizer/customizer.php:575
+msgid "RSS"
+msgstr "RSS"
+
+#: ../inc/catchevolution-functions.php:876
+#: ../inc/catchevolution-functions.php:1078
+#: ../inc/panel/customizer/customizer.php:585
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../inc/catchevolution-functions.php:881
+#: ../inc/catchevolution-functions.php:1083
+#: ../inc/panel/customizer/customizer.php:595
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/catchevolution-functions.php:886
+#: ../inc/catchevolution-functions.php:1088
+#: ../inc/panel/customizer/customizer.php:605
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/catchevolution-functions.php:891
+#: ../inc/catchevolution-functions.php:1093
+#: ../inc/panel/customizer/customizer.php:615
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ../inc/catchevolution-functions.php:901
+#: ../inc/catchevolution-functions.php:1103
+#: ../inc/panel/customizer/customizer.php:635
+msgid "Contact"
+msgstr "Contact"
+
+#: ../inc/catchevolution-functions.php:906
+#: ../inc/catchevolution-functions.php:1108
+#: ../inc/panel/customizer/customizer.php:645
+msgid "Xing"
+msgstr "Xing"
+
+#: ../inc/catchevolution-functions.php:911
+#: ../inc/catchevolution-functions.php:1113
+#: ../inc/panel/customizer/customizer.php:655
+msgid "Meetup"
+msgstr "Meetup"
+
+#: ../inc/catchevolution-menus.php:95
+msgid "Primary menu"
+msgstr "Menu principal"
+
+#: ../inc/catchevolution-menus.php:136
+msgid "Secondary menu"
+msgstr "Menu secundário"
+
+#: ../inc/catchevolution-menus.php:180 ../inc/catchevolution-menus.php:181
+#, fuzzy
+#| msgid "Footer Menu"
+msgid "Top Menu"
+msgstr "Menu do rodapé"
+
+#: ../inc/catchevolution-menus.php:245
+msgid "Footer menu"
+msgstr "Menu do rodapé"
+
+#: ../inc/catchevolution-widgets.php:17
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: ../inc/catchevolution-widgets.php:27
+msgid "Third Column Sidebar"
+msgstr "Terceira coluna da barra lateral"
+
+#: ../inc/catchevolution-widgets.php:37
+msgid "Header Right Sidebar"
+msgstr "Barra lateral direita do cabeçalho"
+
+#: ../inc/catchevolution-widgets.php:48
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral para o WooCommerce"
+
+#: ../inc/catchevolution-widgets.php:59
+msgid "Footer Area One"
+msgstr "Área do Rodapé - Um"
+
+#: ../inc/catchevolution-widgets.php:61 ../inc/catchevolution-widgets.php:72
+#: ../inc/catchevolution-widgets.php:83
+msgid "An optional widget area for your site footer"
+msgstr "Uma área Widget opcional para o rodapé do site"
+
+#: ../inc/catchevolution-widgets.php:70
+msgid "Footer Area Two"
+msgstr "Área do Rodapé - Dois"
+
+#: ../inc/catchevolution-widgets.php:81
+msgid "Footer Area Three"
+msgstr "Área do Rodapé - Três"
+
+#: ../inc/catchevolution-widgets.php:109
+msgid "CT: Adspace Widget"
+msgstr ""
+
+#: ../inc/catchevolution-widgets.php:110
+msgid "Use this widget to add any type of Advertisement as a widget."
+msgstr ""
+"Utilize esta ferramenta (Widget) como espaço publicitário para veiculação "
+"dos seus produtos para comércio (código fonte do banner de quem você é "
+"afiliado), adicionando qualquer tipo de anúncio como um widget, no local de "
+"sua preferência."
+
+#: ../inc/catchevolution-widgets.php:128 ../inc/catchevolution-widgets.php:251
+#: ../inc/catchevolution-widgets.php:328
+msgid "Title (optional):"
+msgstr "Título (opcional):"
+
+#: ../inc/catchevolution-widgets.php:133
+msgid "Ad Code:"
+msgstr "Código do Anúncio:"
+
+#: ../inc/catchevolution-widgets.php:139
+msgid "Image Url:"
+msgstr "URL - endereço da Imagem:"
+
+#: ../inc/catchevolution-widgets.php:143
+msgid "Link URL:"
+msgstr ""
+"<acronym title=\"Significa em inglês Uniform Resource Locator, forma "
+"padronizada de representação de diferentes documentos, mídia e serviços de "
+"rede na internet, capaz de fornecer a cada documento um endereço único."
+"\">URL</acronym> do Link:"
+
+#: ../inc/catchevolution-widgets.php:147
+msgid "Open Link in New Window"
+msgstr "Abrir link em nova janela"
+
+#: ../inc/catchevolution-widgets.php:151
+msgid "Alt text:"
+msgstr "Texto alternativo (alt text):"
+
+#: ../inc/catchevolution-widgets.php:237
+msgid "CT: Social-Search Widget"
+msgstr ""
+
+#: ../inc/catchevolution-widgets.php:238 ../inc/catchevolution-widgets.php:315
+msgid ""
+"Use this widget to add Social Icons from Social Icons Settings & Search  as "
+"a widget."
+msgstr ""
+
+#: ../inc/catchevolution-widgets.php:314
+msgid "CT: Social Widget"
+msgstr ""
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:88
+msgid "Light"
+msgstr "Claro"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:89
+msgid "Dark"
+msgstr "Escuro"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:103
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:104
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:105
+msgid "No Sidebar"
+msgstr "Sem barra lateral"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:106
+msgid "Three Columns"
+msgstr "Três colunas"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:120
+#: ../inc/panel/customizer/customizer.php:266
+msgid "Full Content Display"
+msgstr "Mostrar o conteúdo completo na Homepage do blog"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:121
+msgid "Excerpt/Blog Display"
+msgstr "Mostrar apenas o resumo do conteúdo na Homepage do blog"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:134
+msgid "Homepage"
+msgstr ""
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:135
+msgid "Entire Site"
+msgstr "Todo o Website"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:136
+msgid "Disable"
+msgstr "Desativar"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:150
+msgid "fade"
+msgstr "Efeito desaparecer gradualmente"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:151
+msgid "wipe"
+msgstr "Efeito limpar"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:152
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:154
+msgid "scrollUp"
+msgstr "Efeito rolar para cima"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:153
+msgid "scrollDown"
+msgstr "Efeito rolar para baixo"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:155
+msgid "scrollLeft"
+msgstr "Efeito rolar para a esquerda"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:156
+msgid "scrollRight"
+msgstr "Efeito rolar para a direita"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:157
+msgid "blindX"
+msgstr "Efeito persiana no eixo X"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:158
+msgid "blindY"
+msgstr "Efeito persiana no eixo Y"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:159
+msgid "blindZ"
+msgstr "Efeito persiana no eixo Z"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:160
+msgid "cover"
+msgstr "Efeito sobrepor"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:161
+msgid "shuffle"
+msgstr "Efeito passar a imagem da frente para trás"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:174
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:195
+msgid "Theme: Catch Evolution by "
+msgstr "Tema: Catch Evolution por: "
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:206
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:281
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:216
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:219
+msgid "Copyright"
+msgstr "Direitos Autorais "
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:216
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:219
+#, fuzzy
+#| msgid "All Rights Reserved"
+msgid "All Rights Reserved."
+msgstr "-  Todos os Direitos são Reservados"
+
+#: ../inc/panel/catchevolution-themeoptions-defaults.php:281
+#, fuzzy
+msgid "Catch Evolution Pro"
+msgstr "Catch Evolution"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:32
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:46
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:59
+msgid "Theme Instructions"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:63
+msgid "Support"
+msgstr "Dar suporte"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:67
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:71
+msgid "Donate Now"
+msgstr "Gostou do tema? Faça uma Doação Agora!"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:75
+msgid "Review"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:28
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: ../inc/panel/customizer/customizer.php:29
+msgid "Basic theme Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:33
+msgid "Header Options"
+msgstr "Opções de configuração do cabeçalho"
+
+#: ../inc/panel/customizer/customizer.php:38
+msgid "Search Text Settings"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:43
+msgid "Layout Options"
+msgstr "Opções da disposição e apresentação do Website (Layout)"
+
+#: ../inc/panel/customizer/customizer.php:48
+msgid "Homepage / Frontpage Category Setting"
+msgstr ""
+"Configurações da página inicial (Homepage) e da página da frente (Frontpage)"
+
+#: ../inc/panel/customizer/customizer.php:53
+msgid "Excerpt / More Tag Settings"
+msgstr "Configurações de tag Mais (&hellip; Continue lendo&hellip; &rarr;)"
+
+#: ../inc/panel/customizer/customizer.php:58
+msgid "Feed Redirect"
+msgstr "Redirecionamento para o seu Feed"
+
+#: ../inc/panel/customizer/customizer.php:63
+msgid "Custom CSS"
+msgstr ""
+"Folha de estilo personalizado CSS - (Cascading Style Sheet - Folha de Estilo "
+"em Cascata)"
+
+#: ../inc/panel/customizer/customizer.php:71
+#: ../inc/panel/customizer/customizer.php:72
+msgid "Featured Post Slider"
+msgstr "Opções do Slider Show"
+
+#: ../inc/panel/customizer/customizer.php:76
+msgid "Slider Options"
+msgstr "Opções de configuração do Slider Show"
+
+#: ../inc/panel/customizer/customizer.php:84
+#: ../inc/panel/customizer/customizer.php:89
+msgid "Social Links"
+msgstr "Links das Redes Sociais"
+
+#: ../inc/panel/customizer/customizer.php:85
+msgid "Add your social links here"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:96
+#: ../inc/panel/customizer/customizer.php:101
+msgid "Tools"
+msgstr "Ferramenta para Webmaster"
+
+#: ../inc/panel/customizer/customizer.php:97
+#: ../inc/panel/customizer/customizer.php:102
+#, php-format
+msgid ""
+"Tools falls under Plugins Territory according to Theme Review Guidelines in "
+"WordPress.org. This feature will be depreciated in future versions from "
+"Catch Evolution free version. If you want this feature, then you can add <a "
+"target=\"_blank\" href=\"%s\">Catch Web Tools</a>  plugin."
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:146
+msgid "Extra Menu Options specific to this theme"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:148
+msgid "Menu Options"
+msgstr "Opções de menu"
+
+#: ../inc/panel/customizer/customizer.php:156
+msgid "Default Color Scheme"
+msgstr "Esquema de cores padrão"
+
+#: ../inc/panel/customizer/customizer.php:168
+#, fuzzy
+#| msgid "Check to disable"
+msgid "Check to Disable Primary Menu"
+msgstr "Marque aqui para desativar"
+
+#: ../inc/panel/customizer/customizer.php:179
+msgid "Check to Enable Footer Menu in Mobile Devices"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:191
+msgid "Check to Disable Header"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:201
+#: ../inc/panel/customizer/customizer.php:211
+msgid "Check to Disable Site Title"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:221
+msgid "Check to Move Site Title and Tagline before the logo"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:231
+msgid "Check to Separate Logo and Site Details"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:243
+msgid "Default Display Text in Search"
+msgstr ""
+"Exibição do texto padrão no campo Pesquisar, que faz a busca interna no "
+"Website/Blog é:"
+
+#: ../inc/panel/customizer/customizer.php:255
+msgid "Sidebar Layout Options"
+msgstr "Opções da disposição da barra lateral"
+
+#: ../inc/panel/customizer/customizer.php:278
+msgid "Front page posts categories:"
+msgstr "Categoria das postagens da primeira página:"
+
+#: ../inc/panel/customizer/customizer.php:279
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:290
+msgid "More Tag Text"
+msgstr ""
+"Coloque o texto no campo ao lado para incentivar a leitura completa do seu "
+"conteúdo (tag Mais).<br />Exemplo: &hellip; Leia mais&hellip; &rarr;<br /"
+">&hellip; Continue lendo&hellip; &rarr;"
+
+#: ../inc/panel/customizer/customizer.php:300
+msgid "Excerpt length(words)"
+msgstr ""
+"Quantidade de palavras que serão usadas para apresentar o resumo da "
+"postagem, em páginas que usarem esse recurso. (exemplo: home, categorias, "
+"etc...)"
+
+#: ../inc/panel/customizer/customizer.php:318
+msgid "Feed Redirect url"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:319
+msgid " Add in the Feedburner URL"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:331
+msgid "Enter your custom CSS styles"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:343
+msgid "Enable Slider"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:354
+msgid "Number of Slides"
+msgstr "Escolha o número de Slides para apresentação:"
+
+#: ../inc/panel/customizer/customizer.php:355
+msgid ""
+"Customizer page needs to be refreshed after saving if number of slides is "
+"changed"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:370
+msgid "Transition Effect"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:381
+msgid "Transition Delay"
+msgstr "Regular o tempo de exposição do Slider Show, para leitura do texto."
+
+#: ../inc/panel/customizer/customizer.php:397
+msgid "Transition Length"
+msgstr "Regular a velocidade da transição entre os Slides."
+
+#: ../inc/panel/customizer/customizer.php:415
+msgid "Check to Exclude Slider posts from Homepage posts"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:426
+msgid "Check to Enable Social Icons in Footer"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:475
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../inc/panel/customizer/customizer.php:495
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:667
+msgid "Code to display on Header"
+msgstr "Coloque aqui o código para ser inserido no Cabeçalho (Header)"
+
+#: ../inc/panel/customizer/customizer.php:668
+msgid ""
+"Here you can put scripts from Google, Facebook etc. which will load on Header"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:678
+msgid "Code to display on Footer"
+msgstr "Coloque aqui o código para ser inserido no Rodapé (Footer)"
+
+#: ../inc/panel/customizer/customizer.php:679
+msgid ""
+"Here you can put scripts from Google, Facebook etc. which will load on Footer"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:695
+msgid "Check to Disable Header Logo"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:705
+msgid "Logo"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:879
+#, php-format
+msgid "Featured Post Slider #%s"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:893
+#: ../inc/panel/customizer/customizer.php:904
+msgid "Important Links"
+msgstr ""
+
+#: ../search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da sua pesquisa para: <b>%s</b>"
+
+#: ../search.php:41
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe-nos, mas nada foi encontrado que respeite os critérios de sua "
+"pesquisa. Por favor, tente novamente, na caixa de pesquisa abaixo, mas, com "
+"alguma palavra-chave diferente, use também a semelhança entre as palavras "
+"procuradas.<br />Obrigado!"
+
+#: ../searchform.php:16
+msgid "Search"
+msgstr "Pesquisar&hellip;"
+
+#: ../single.php:14
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: ../single.php:15
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Próximo <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arquivos da tag: %s"
+
+#~ msgid "Catch Evolution Options"
+#~ msgstr "Opções do Catch Evolution"
+
+#~ msgid "Default Layout Set in <a href=\"%s\">Theme Settings</a>"
+#~ msgstr "Layout Padrão em <a href=\"%s\">Opções do Tema</a>"
+
+#~ msgid "Right sidebar"
+#~ msgstr "Barra lateral direita"
+
+#~ msgid "Left sidebar"
+#~ msgstr "Barra lateral esquerda"
+
+#~ msgid "No sidebar"
+#~ msgstr "Sem barra lateral"
+
+#~ msgid "Options Saved"
+#~ msgstr "Configurações Salvas"
+
+#~ msgid "Theme Options By"
+#~ msgstr "Opções do tema por: "
+
+#~ msgid "https://catchthemes.com/"
+#~ msgstr "https://catchthemes.com/"
+
+#~ msgid "https://catchthemes.com/themes/catch-evolution-pro/"
+#~ msgstr "https://catchthemes.com/themes/catch-evolution-pro/"
+
+#~ msgid "Upgrade to Catch Evolution Pro"
+#~ msgstr "Faça upgrade para o Tema Catch Evolution Pro"
+
+#~ msgid "https://catchthemes.com/donate/"
+#~ msgstr "https://catchthemes.com/donate/"
+
+#~ msgid "Donate to Catch Evolution"
+#~ msgstr "Doação para Catch Evolution"
+
+#~ msgid "https://catchthemes.com/theme-instructions/catch-evolution/"
+#~ msgstr "https://catchthemes.com/theme-instructions/catch-evolution/"
+
+#~ msgid "Theme Instruction"
+#~ msgstr "Instruções do tema"
+
+#~ msgid "https://catchthemes.com/support/"
+#~ msgstr "https://catchthemes.com/support/"
+
+#~ msgid "https://www.facebook.com/catchthemes/"
+#~ msgstr "https://www.facebook.com/catchthemes/"
+
+#~ msgid "Like Catch Themes on Facebook"
+#~ msgstr "Curtir o Catch Themes no Facebook"
+
+#~ msgid "https://twitter.com/catchthemes/"
+#~ msgstr "https://twitter.com/catchthemes/"
+
+#~ msgid "Follow Catch Themes on Twitter"
+#~ msgstr "Siga o Catch Themes no Twitter"
+
+#~ msgid "http://wordpress.org/support/view/theme-reviews/catch-evolution/"
+#~ msgstr "http://wordpress.org/support/view/theme-reviews/catch-evolution/"
+
+#~ msgid "Rate us 5 Star on WordPress"
+#~ msgstr "Classifique-nos com 5 Estrelas no WordPress, obrigado!"
+
+#~ msgid "5 Star Rating"
+#~ msgstr "Classifique-nos com 5 Estrelas!"
+
+#~ msgid "Favicon Options"
+#~ msgstr "Opções de configuração do Favicon (Ícone favorito)"
+
+#~ msgid "Disable Favicon?"
+#~ msgstr "Você quer <strong>desativar</strong> o Favicon?"
+
+#~ msgid "Check to disable"
+#~ msgstr "Marque aqui para desativar"
+
+#~ msgid "Fav Icon URL:"
+#~ msgstr "URL do seu ícone Favicon:"
+
+#~ msgid "Insert as Fav Icon"
+#~ msgstr "Inserir como ícone favorito (Favicon)"
+
+#~ msgid "Change Fav Icon"
+#~ msgstr "Adicionar/Mudar o seu Favicon"
+
+#~ msgid "Preview: "
+#~ msgstr "Pré-visualização:"
+
+#~ msgid "Save Changes"
+#~ msgstr "Salvar Alterações"
+
+#~ msgid "Web Clip Icon Options"
+#~ msgstr "Opções de web clipe ícone (Ícone usado para dispositivos da Apple)"
+
+#~ msgid "Disable Web Clip Icon?"
+#~ msgstr "Você quer <strong>desativar</strong> web clipe ícone?"
+
+#~ msgid "Web Clip Icon URL:"
+#~ msgstr ""
+#~ "Coloque aqui o <acronym title=\"Significa em inglês Uniform Resource "
+#~ "Locator, forma padronizada de representação de diferentes documentos, "
+#~ "mídia e serviços de rede na internet, capaz de fornecer a cada documento "
+#~ "um endereço único.\">URL</acronym> do Web Clipe Ícone:"
+
+#~ msgid "Insert as Web Clip Icon"
+#~ msgstr "Inserir como web clipe ícone"
+
+#~ msgid "Change Web Clip Icon"
+#~ msgstr "Adicionar/Mudar Web Clip Ícone"
+
+#~ msgid ""
+#~ "Note: Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+#~ "Height 144px height, which will support High Resolution Devices like iPad "
+#~ "Retina."
+#~ msgstr ""
+#~ "Nota importante: Web Clip Ícone usado para dispositivos da Apple. Tamanho "
+#~ "recomendado - largura 144px e altura 144px, que irá suportar dispositivos "
+#~ "de alta resolução, como iPad de Retina."
+
+#~ msgid "Disable Header?"
+#~ msgstr "Você quer desativar a seção do cabeçalho?"
+
+#~ msgid "Change Custom Header Image (Buddha)?"
+#~ msgstr "Você quer alterar e/ou personalizar a imagem do cabeçalho?"
+
+#~ msgid "Click here to change header image"
+#~ msgstr "Clique aqui para alterar a imagem do cabeçalho"
+
+#~ msgid "Disable Header Logo?"
+#~ msgstr "Você quer desativar o logotipo fixado no topo do cabeçalho?"
+
+#~ msgid "Logo url:"
+#~ msgstr ""
+#~ "Coloque no campo ao lado o endereço <acronym title=\"Significa em inglês "
+#~ "Uniform Resource Locator, forma padronizada de representação de "
+#~ "diferentes documentos, mídia e serviços de rede na internet, capaz de "
+#~ "fornecer a cada documento um endereço único.\">URL</acronym> do logotipo "
+#~ "que vai ficar no cabeçalho."
+
+#~ msgid "Insert as Header Logo"
+#~ msgstr "Inserir como logotipo do cabeçalho"
+
+#~ msgid "Change Header Logo"
+#~ msgstr "Alterar o logotipo do cabeçalho"
+
+#~ msgid "Preview:"
+#~ msgstr "Pré-visualização:"
+
+#~ msgid "Disable Site Title?"
+#~ msgstr "Você quer desativar o título do Website/Blog?"
+
+#~ msgid "Disable Site Description (Tagline)?"
+#~ msgstr "Você quer desativar a descrição (Slogan) do Website/Blog?"
+
+#~ msgid "Move Site Title and Tagline?"
+#~ msgstr "Você quer mover o título e a descrição (Slogan) do Website/Blog?"
+
+#~ msgid "Check to move before the Logo"
+#~ msgstr "Marque aqui para mover a imagem do logotipo após o cabeçalho"
+
+#~ msgid "Seperate Logo and Site Details?"
+#~ msgstr "Você quer separar os detalhes do Website/Blog do logotipo?"
+
+#~ msgid "Check to move down"
+#~ msgstr "Marque aqui para mover para baixo"
+
+#~ msgid "Enable Header Right Sidebar?"
+#~ msgstr "Você quer ativar a barra lateral direita no cabeçalho?"
+
+#~ msgid "Just add Widgets in Header Right Sidebar"
+#~ msgstr "Basta adicionar Widgets na barra lateral direita do cabeçalho"
+
+#~ msgid "Menu Tutorial"
+#~ msgstr "Aprenda a fazer o menu com nosso tutorial"
+
+#~ msgid "https://catchthemes.com/blog/custom-menus-wordpress-themes/"
+#~ msgstr "https://catchthemes.com/blog/custom-menus-wordpress-themes/"
+
+#~ msgid "Click Here to Read Menu Tutorial"
+#~ msgstr "Clique aqui para aprender, no tutorial, como fazer o menu"
+
+#~ msgid "Create Menu"
+#~ msgstr "Criar o menu"
+
+#~ msgid "Click Here to Create Menu"
+#~ msgstr "Clique aqui para criar o menu"
+
+#~ msgid "Assign Menu to Respective Location"
+#~ msgstr "Atribuir o respectivo local para o menu"
+
+#~ msgid "Assign Menu Location"
+#~ msgstr "Atribuir a localização para o menu"
+
+#~ msgid "Click Here to Assign Menu Location"
+#~ msgstr "Clique aqui para atribuir a localização para o menu"
+
+#~ msgid "Add Menu in Header Right Sidebar"
+#~ msgstr "Você quer adicionar um menu na barra lateral direita do cabeçalho?"
+
+#~ msgid "Add Menu Widget in Header Right Sidebar"
+#~ msgstr "Adicione o menu a um Widget na barra lateral direita do cabeçalho"
+
+#~ msgid "Disable Primary & Secondary Menu?"
+#~ msgstr "Você quer desativar o menu principal e o menu secundário?"
+
+#~ msgid "Save"
+#~ msgstr "Salvar Alterações"
+
+#~ msgid "Search Options"
+#~ msgstr "Opções do campo Pesquisar..."
+
+#~ msgid "Color Options"
+#~ msgstr "Opções de configuração de cores"
+
+#~ msgid "Main Background Color:"
+#~ msgstr "Cor e/ou imagem de fundo principal:"
+
+#~ msgid "Click Here to change Main Background Image/Color"
+#~ msgstr "Clique aqui para modificar imagem e/ou cor de fundo principal"
+
+#~ msgid "Site Title Color:"
+#~ msgstr "Cor do título do Website/Blog:"
+
+#~ msgid "Click Here to change Site Title Color"
+#~ msgstr "Clique aqui para alterar a cor do título do Website/Blog"
+
+#~ msgid "Default Layout"
+#~ msgstr "Escolha o layout padrão global"
+
+#~ msgid "Content Layout"
+#~ msgstr "Layout do conteúdo na Homepage do Blog"
+
+#~ msgid "Reset Layout?"
+#~ msgstr "Você quer voltar às configurações padrão (resetar) para o Layout?"
+
+#~ msgid "Check to reset"
+#~ msgstr "Marque aqui para redefinir (resetar)"
+
+#~ msgid ""
+#~ "Only posts that belong to the categories selected here will be displayed "
+#~ "on the front page."
+#~ msgstr ""
+#~ "Somente as postagens que pertencem às categorias selecionadas aqui, serão "
+#~ "exibidos na primeira página."
+
+#~ msgid "--Disabled--"
+#~ msgstr "- Desativado -"
+
+#~ msgid "You may select multiple categories by holding down the CTRL key."
+#~ msgstr ""
+#~ "Você pode selecionar várias categorias, mantendo pressionada a tecla CTRL."
+
+#~ msgid "Reset?"
+#~ msgstr ""
+#~ "Você quer voltar à configuração padrão (resetar) redefinindo as "
+#~ "configurações para o original da Tag Mais?"
+
+#~ msgid "Feed Redirect URL"
+#~ msgstr "Redirecionamento da URL para o seu Feed"
+
+#~ msgid "Add in the Feedburner URL"
+#~ msgstr "Adicionar  a URL do Feedburner - Google"
+
+#~ msgid "Enter your custom CSS styles."
+#~ msgstr ""
+#~ "Coloque aqui a sua folha de estilo em cascata personalizada - CSS -<br/> "
+#~ "Nota: colocando aqui sua estilização, ela será preservada de modificações "
+#~ "futuras, quando o tema for atualizado pelo desenvolvedor."
+
+#~ msgid "CSS Tutorial from W3Schools."
+#~ msgstr ""
+#~ "Aprenda tudo que você precisa saber a respeito da apresentação das folhas "
+#~ "de estilo em cascata <strong>CSS</strong>  (<strong>C</strong>ascading "
+#~ "<strong>S</strong>tyle <strong>S</strong>heet - Folha de Estilo em "
+#~ "Cascata) com os tutoriais dinâmicos da escola <strong>W3Schools</strong>. "
+#~ "(em inglês, contudo, vale o seu esforço em traduzir, para aprender esse "
+#~ "<strong>Ensinamento Gratuito</strong> e apresentar o seu website/blog a "
+#~ "seu gosto para o público alvo na internet!)"
+
+#~ msgid "http://www.w3schools.com/css/default.asp"
+#~ msgstr "http://www.w3schools.com/css/default.asp"
+
+#~ msgid "CSS Tutorial"
+#~ msgstr ""
+#~ "W3Schools - Tutoriais para aprender CSS (Cascading Style Sheet - Folha de "
+#~ "Estilo em Cascata)"
+
+#~ msgid "Click Here to Read"
+#~ msgstr "Clique aqui para ler e aprender"
+
+#~ msgid "Enable Sidebar"
+#~ msgstr "Ativar a barra lateral principal"
+
+#~ msgid "Homepage / Frontpage"
+#~ msgstr "Homepage / Frontpage"
+
+#~ msgid "Transition Effect:"
+#~ msgstr "Escolha o efeito de transição:"
+
+#~ msgid "second(s)"
+#~ msgstr ""
+#~ "segundo(s)<br/>Exemplo: de 0.1 a 0.9 ou 1 ou 2 ou 7 ou 15 ou 23,  "
+#~ "enfim... o número é para sua livre escolha!<br/>Teste qualquer número e "
+#~ "escolha o que fique melhor para a visualização!"
+
+#~ msgid "Featured Post Slider Options"
+#~ msgstr "Opções do Slider Show para as postagens em destaque"
+
+#~ msgid "Post Slider Tutorial"
+#~ msgstr "Tutorial que ensina como colocar as postagens no Slider Show"
+
+#~ msgid ""
+#~ "https://catchthemes.com/blog/videos-blog/video-series-adding-featured-"
+#~ "post-slider/"
+#~ msgstr ""
+#~ "https://catchthemes.com/blog/videos-blog/video-series-adding-featured-"
+#~ "post-slider/"
+
+#~ msgid "Click Here to Read Post Slider Tutorial"
+#~ msgstr ""
+#~ "Clique aqui para ler o tutorial que ensina como colocar as postagens no "
+#~ "Slider Show"
+
+#~ msgid "Exclude Slider post from Homepage posts?"
+#~ msgstr ""
+#~ "Você quer excluir da página inicial das postagens (Homepage), a "
+#~ "apresentação em Slide Show?"
+
+#~ msgid "Check to exclude"
+#~ msgstr "Marque aqui para excluir"
+
+#~ msgid "Featured Slider Post #"
+#~ msgstr "Postagem em destaque no Slider Show #"
+
+#~ msgid "Click Here To Edit"
+#~ msgstr "Clique aqui para editar"
+
+#~ msgid ""
+#~ "Note: Here You can put your Post IDs which displays on Homepage as slider."
+#~ msgstr ""
+#~ "<strong>Nota:</strong> Aqui você pode colocar as identificações únicas "
+#~ "(<b>IDs</b>) de suas postagens que serão exibidas na página inicial como "
+#~ "Slider Show."
+
+#~ msgid "Enable Social Icons in Header Right Sidebar?"
+#~ msgstr "Você quer ativar os ícones sociais na barra lateral do cabeçalho?"
+
+#~ msgid "Just add Catch Evolution Social Widget in Header Right Sidebar"
+#~ msgstr ""
+#~ "Basta adicionar o (2. Catch Evolution: Rede Social) na barra lateral do "
+#~ "cabeçalho"
+
+#~ msgid "Enable Social Icons in Footer?"
+#~ msgstr "Você quer ativar os ícones sociais no rodapé?"
+
+#~ msgid "Check to enable"
+#~ msgstr "Marque aqui para ativar"
+
+#~ msgid "Header and Footer Codes"
+#~ msgstr "Os códigos (scripts) que vão inseridos no Cabeçalho e Rodapé"
+
+#~ msgid ""
+#~ "Note: Here you can put scripts from Google, Facebook etc. which will load "
+#~ "on Header"
+#~ msgstr ""
+#~ "<strong>Nota:</strong> Aqui você pode colocar os scripts do Google, "
+#~ "Facebook, Twitter, Add This etc... que serão carregados no Cabeçalho "
+#~ "(Header)"
+
+#~ msgid ""
+#~ "Note: Here you can put scripts from Google, Facebook, Add This etc. which "
+#~ "will load on footer"
+#~ msgstr ""
+#~ "<strong>Nota:</strong> Aqui você pode colocar os scripts do Google, "
+#~ "Facebook, Twitter, Add This etc... que serão carregados no Rodapé (Footer)"
+
+#~ msgid "Skip to primary content"
+#~ msgstr "Ir para o conteúdo principal"
+
+#~ msgid "Skip to secondary content"
+#~ msgstr "Ir para o conteúdo secundário"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Catch Evolution"
+#~ msgstr "Catch Evolution"
+
+#, fuzzy
+#~ msgid "https://catchthemes.com/themes/catch-evolution"
+#~ msgstr "https://catchthemes.com/themes/catch-evolution-pro/"
+
+#, fuzzy
+#~ msgid "https://catchthemes.com"
+#~ msgstr "https://catchthemes.com/"
+
+#, fuzzy
+#~ msgid "Disable Sidebar Template"
+#~ msgstr "Você quer desativar o título do Website/Blog?"
+
+#, fuzzy
+#~ msgid "Three Columns Template"
+#~ msgstr "Três colunas"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Arquivos diários: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Arquivos mensais: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Arquivos anuais: %s"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Blog Archives"
+#~ msgstr "Arquivos do Blog"
+
+#~ msgid "More Theme Options &raquo;"
+#~ msgstr "Mais opções do tema &raquo;"
+
+#~ msgid "Page %s"
+#~ msgstr "Página %s"
+
+#~ msgid "1. Catch Evolution Adspace Widget"
+#~ msgstr "1. Catch Evolution: Publicidade"
+
+#~ msgid ""
+#~ "Use this widget to add Social Icons from Social Icons Settings as a "
+#~ "widget. "
+#~ msgstr ""
+#~ "Utilize esta ferramenta (Widget) para adicionar ícones sociais, "
+#~ "configurando os ícones das redes sociais como um widget."
+
+#~ msgid "2. Catch Evolution Social Widget"
+#~ msgstr "2. Catch Evolution: Rede Social"
+
+#~ msgid ""
+#~ "Use this widget to add Social Icons from Social Icons Settings & Search  "
+#~ "as a widget. "
+#~ msgstr ""
+#~ "Utilize esta ferramenta para adicionar ícones sociais e para configuração "
+#~ "de ícones sociais e pesquisa como um widget."
+
+#~ msgid "3. Catch Evolution Social & Seach Widget"
+#~ msgstr "3. Catch Evolution: Social & Pesquisa"
+
+#~ msgid "Webmaster Tools"
+#~ msgstr "Ferramenta para Webmaster"
+
+#~ msgid "%s in Facebook"
+#~ msgstr "%s in Facebook"
+
+#~ msgid "%s in Twitter"
+#~ msgstr "%s in Twitter"
+
+#~ msgid "%s in Google+"
+#~ msgstr "%s in Google+"
+
+#~ msgid "%s in Linkedin"
+#~ msgstr "%s in Linkedin"
+
+#~ msgid "%s in Pinterest"
+#~ msgstr "%s in Pinterest"
+
+#~ msgid "%s in Vimeo"
+#~ msgstr "%s in Vimeo"
+
+#~ msgid "%s in Slideshare"
+#~ msgstr "%s in Slideshare"
+
+#~ msgid "%s in Foursquare"
+#~ msgstr "%s in Foursquare"
+
+#~ msgid "%s in Flickr"
+#~ msgstr "%s in Flickr"
+
+#~ msgid "%s in Tumblr"
+#~ msgstr "%s in Tumblr"
+
+#~ msgid "%s in deviantART"
+#~ msgstr "%s in deviantART"
+
+#~ msgid "%s in Dribbble"
+#~ msgstr "%s in Dribbble"
+
+#~ msgid "%s in WordPress"
+#~ msgstr "%s in WordPress"
+
+#~ msgid "%s in RSS"
+#~ msgstr "%s in RSS"
+
+#~ msgid "%s in Instagram"
+#~ msgstr "%s in Instagram"
+
+#~ msgid "%s in Skype"
+#~ msgstr "%s in Skype"
+
+#~ msgid "Menu Tutorial from WordPress.com"
+#~ msgstr "Menu Tutorial from WordPress.com"
+
+#~ msgid "http://en.support.wordpress.com/menus/"
+#~ msgstr "http://en.support.wordpress.com/menus/"
+
+#~ msgid "http://facebook.com/catchthemes"
+#~ msgstr "http://facebook.com/catchthemes"
+
+#~ msgid "https://twitter.com/catchthemes"
+#~ msgstr "https://twitter.com/catchthemes"
