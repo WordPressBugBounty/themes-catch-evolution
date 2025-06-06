@@ -4,9 +4,9 @@ Theme URI: https://catchthemes.com/themes/catch-evolution/
 Author: Catch Themes
 Author URI: https://catchthemes.com/
 Description: Catch Evolution is a beautifully sleek creation of Catch Themes. It exudes a clean and super sharp look. It comes with a whole set of interesting, rich features and flexible theme options. Built on HTML5, CSS3, it has a responsive design which lets the content automatically adapt to the screen's size on different devices. Catch Evolution looks striking in a bigger screen. The layout is wider, bigger and luxuriously spacious. This theme is easily customizable with an advanced theme options panel. It supports popular plugins such as Jetpack, WordPress SEO by Yoast, WP-PageNavi, Contact Form 7, WooCommerce and many more. It is also translation ready and currently translated in Spanish, French, Swedish, German, Italian, Japanese, Russian, Czech, Bosnian, Brazilian Portuguese and Dutch. If you need support with this theme, please go to https://catchthemes.com/support/
-Version: 4.1.5
-Requires at least: 5.6
-Tested up to: 6.4
+Version: 4.2
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -2957,6 +2957,62 @@ p.comment-form-comment {
 .social-profile ul li.meetup a:hover,
 .social-profile ul li.meetup a:focus {
 	background-position: -971px -44px;
+}
+.social-profile ul li.goodreads a {
+	background-position: -1015px 0;
+}
+.social-profile ul li.goodreads a:hover,
+.social-profile ul li.goodreads a:focus {
+	background-position: -1015px -44px;
+}
+.social-profile ul li.github a {
+	background-position: -1059px 0;
+}
+.social-profile ul li.github a:hover,
+.social-profile ul li.github a:focus {
+	background-position: -1059px -44px;
+}
+.social-profile ul li.vk a {
+	background-position: -1103px 0;
+}
+.social-profile ul li.vk a:hover,
+.social-profile ul li.vk a:focus {
+	background-position: -1103px -44px;
+}
+.social-profile ul li.spotify a {
+	background-position: -1148px 0;
+}
+.social-profile ul li.spotify a:hover,
+.social-profile ul li.spotify a:focus {
+	background-position: -1148px -44px;
+}
+.social-profile ul li.tiktok a {
+	background-position: -1192px 0;
+}
+.social-profile ul li.tiktok a:hover,
+.social-profile ul li.tiktok a:focus {
+	background-position: -1192px -44px;
+}
+.social-profile ul li.bluesky a {
+	background-position: -1236px 0;
+}
+.social-profile ul li.bluesky a:hover,
+.social-profile ul li.bluesky a:focus {
+	background-position: -1236px -44px;
+}
+.social-profile ul li.x a {
+	background-position: -1280px 0;
+}
+.social-profile ul li.x a:hover,
+.social-profile ul li.x a:focus {
+	background-position: -1280px -44px;
+}
+.social-profile ul li.threads a {
+	background-position: -1324px 0;
+}
+.social-profile ul li.threads a:hover,
+.social-profile ul li.threads a:focus {
+	background-position: -1324px -44px;
 }
 img#wpstats {
 	display: none;

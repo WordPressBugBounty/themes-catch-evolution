@@ -1,8 +1,8 @@
 = Catch Evolution =
 Contributors: catchthemes
 Tags: dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, threaded-comments, flexible-header, three-columns
-Requires at least: 5.6
-Tested up to: 6.4
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -64,6 +64,10 @@ There are 4 Menus registered in this theme. Fixed Header Top, Primary, Secondary
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 4.2 (Released: June 06, 2025) =
+* Added: Goodreeds, Github, Vk, Spotify, Twitter X, Threads, Tiktok, and Bluesky icons
+* Updated: WordPress 6.8 ready
 
 = 4.1.5 (Released: December 13, 2023) ==
 * Updated: WordPress 6.4 ready
@@ -316,7 +320,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Catch Evolution WordPress Theme, Copyright 2012-2023 Catchthemes.com
+Catch Evolution WordPress Theme, Copyright 2012-2025 Catchthemes.com
 Catch Evolution is distributed under the terms of the GNU GPL
 
 == Resources ==

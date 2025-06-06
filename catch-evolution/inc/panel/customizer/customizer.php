@@ -450,6 +450,16 @@ function catchevolution_customize_register( $wp_customize ) {
 			'section' 		=> 'social_links',
 			'default' 		=> $defaults['social_twitter']
 		),
+		'social_x' => array(
+			'id' 			=> 'social_x',
+			'title' 		=> __('X Twitter', 'catch-evolution'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
 		'social_googleplus' => array(
 			'id' 			=> 'social_googleplus',
 			'title' 		=> __( 'Google+', 'catch-evolution' ),
@@ -653,6 +663,76 @@ function catchevolution_customize_register( $wp_customize ) {
 		'social_meetup' => array(
 			'id' 			=> 'social_meetup',
 			'title' 		=> __( 'Meetup', 'catch-evolution' ),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
+		'social_goodreads' => array(
+			'id' 			=> 'social_goodreads',
+			'title' 		=> __('Goodreads', 'catch-evolution'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
+		'social_github' => array(
+			'id' 			=> 'social_github',
+			'title' 		=> __('Github', 'catch-evolution'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
+		'social_vk' => array(
+			'id' 			=> 'social_vk',
+			'title' 		=> __('VK', 'catch-evolution'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
+		'social_spotify' => array(
+			'id' 			=> 'social_spotify',
+			'title' 		=> __('Spotify', 'catch-evolution'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
+		'social_tiktok' => array(
+			'id' 			=> 'social_tiktok',
+			'title' 		=> __('Tiktok', 'catch-evolution'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
+		'social_bluesky' => array(
+			'id' 			=> 'social_bluesky',
+			'title' 		=> __('Bluesky', 'catch-evolution'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'social_links',
+			'default' 		=> $defaults['social_meetup']
+		),
+		'social_threads' => array(
+			'id' 			=> 'social_threads',
+			'title' 		=> __('Threads', 'catch-evolution'),
 			'description'	=> '',
 			'field_type' 	=> 'url',
 			'sanitize' 		=> 'esc_url_raw',
