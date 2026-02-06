@@ -57,20 +57,6 @@ function catchevolution_scripts_method() {
 		wp_enqueue_script( 'comment-reply' );
 	}
 
-	//Browser Specific Enqueue Script i.e. for IE 1-6
-	$catchevolution_ua = strtolower($_SERVER['HTTP_USER_AGENT']);
-	if (preg_match('/(?i)msie [1-6]/',$catchevolution_ua)) {
-
-	}
-
-	//browser specific queuing
-	//for IE 1-8
-	wp_enqueue_script( 'catchevolution-html5', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/catchevolution-ielte8.min.js', array(), '3.7.3' );
-	wp_script_add_data( 'catchevolution-html5', 'conditional', 'lt IE 9' );
-
-	//for IE 1-6
-	wp_enqueue_script( 'catchevolution-pngfix', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/pngfix.min.js' );
-	wp_script_add_data( 'catchevolution-pngfix', 'conditional', 'lte IE 6' );
 } // catchevolution_scripts_method
 add_action( 'wp_enqueue_scripts', 'catchevolution_scripts_method' );
 

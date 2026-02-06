@@ -46,14 +46,24 @@ if ( ! function_exists( 'catchevolution_wp_page_menu' ) ) :
  * @uses wp_page_menu filter
  */
 function catchevolution_wp_page_menu( $page_markup ) {
-    preg_match('/^<div class=\"([a-z0-9-_]+)\">/i', $page_markup, $matches);
+
+    // Run regex and check if it matched
+    if ( preg_match('/^<div class="([a-z0-9\-_]+)">/i', $page_markup, $matches) && isset($matches[1]) ) {
         $divclass = $matches[1];
-        $replace = array('<div class="'.$divclass.'">', '</div>');
+
+        $replace = array('<div class="' . $divclass . '">', '</div>');
         $new_markup = str_replace($replace, '', $page_markup);
-        $new_markup = preg_replace('/^<ul>/i', '<ul class="'.$divclass.'">', $new_markup);
+
+        // Add the class to <ul>
+        $new_markup = preg_replace('/^<ul>/i', '<ul class="' . $divclass . '">', $new_markup);
+
         return $new_markup;
+    }
+
+    // If no match, return original markup
+    return $page_markup;
 }
-endif; //catchevolution_wp_page_menu
+endif; // catchevolution_wp_page_menu
 
 add_filter( 'wp_page_menu', 'catchevolution_wp_page_menu' );
 

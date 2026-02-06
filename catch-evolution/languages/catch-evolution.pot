@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Evolution\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-06-06 15:31+0545\n"
+"POT-Creation-Date: 2025-12-10 20:50+0545\n"
 "PO-Revision-Date: 2016-12-07 14:43-0500\n"
 "Last-Translator: Catch Themes <info@catchthemes.com>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-KeywordsList: "
 "__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -115,7 +115,7 @@ msgstr ""
 #: ../content-aside.php:14 ../content-featured.php:12 ../content-gallery.php:14
 #: ../content-gallery.php:46 ../content-image.php:13 ../content-link.php:14
 #: ../content-page.php:11 ../content-quote.php:12 ../content-status.php:14
-#: ../content.php:21 ../content.php:54 ../inc/catchevolution-functions.php:585
+#: ../content.php:21 ../content.php:54 ../inc/catchevolution-functions.php:571
 #, php-format
 msgid "Permalink to %s"
 msgstr ""
@@ -163,8 +163,8 @@ msgstr ""
 #: ../content-aside.php:48 ../content-featured.php:49 ../content-gallery.php:94
 #: ../content-image.php:70 ../content-link.php:48 ../content-page.php:25
 #: ../content-quote.php:77 ../content-single.php:62 ../content-status.php:50
-#: ../content.php:109 ../image.php:95 ../inc/catchevolution-functions.php:336
-#: ../inc/catchevolution-functions.php:364
+#: ../content.php:109 ../image.php:95 ../inc/catchevolution-functions.php:322
+#: ../inc/catchevolution-functions.php:350
 msgid "Edit"
 msgstr ""
 
@@ -225,7 +225,7 @@ msgid ""
 "href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
 msgstr ""
 
-#: ../content-image.php:41 ../inc/catchevolution-functions.php:413
+#: ../content-image.php:41 ../inc/catchevolution-functions.php:399
 #, php-format
 msgid "View all posts by %s"
 msgstr ""
@@ -277,15 +277,15 @@ msgstr ""
 msgid "Fixed Header Top Menu"
 msgstr ""
 
-#: ../functions.php:149 ../inc/catchevolution-menus.php:94
+#: ../functions.php:149 ../inc/catchevolution-menus.php:104
 msgid "Primary Menu"
 msgstr ""
 
-#: ../functions.php:150 ../inc/catchevolution-menus.php:135
+#: ../functions.php:150 ../inc/catchevolution-menus.php:145
 msgid "Secondary Menu"
 msgstr ""
 
-#: ../functions.php:151 ../inc/catchevolution-menus.php:244
+#: ../functions.php:151 ../inc/catchevolution-menus.php:254
 msgid "Footer Menu"
 msgstr ""
 
@@ -350,41 +350,41 @@ msgstr ""
 msgid "collapse child menu"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:250 ../single.php:13
+#: ../inc/catchevolution-functions.php:236 ../single.php:13
 msgid "Post navigation"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:258
+#: ../inc/catchevolution-functions.php:244
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:259
+#: ../inc/catchevolution-functions.php:245
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:336
+#: ../inc/catchevolution-functions.php:322
 msgid "Pingback:"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:353
+#: ../inc/catchevolution-functions.php:339
 #, php-format
 msgid "%1$s on %2$s <span class=\"says\">said:</span>"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:359
+#: ../inc/catchevolution-functions.php:345
 #, php-format
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:368
+#: ../inc/catchevolution-functions.php:354
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:377
+#: ../inc/catchevolution-functions.php:363
 msgid "Reply <span>&darr;</span>"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:407
+#: ../inc/catchevolution-functions.php:393
 #, php-format
 msgid ""
 "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" "
@@ -394,187 +394,187 @@ msgid ""
 "title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:482
+#: ../inc/catchevolution-functions.php:468
 msgid "ID"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:687
+#: ../inc/catchevolution-functions.php:673
 msgid "Name"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:689 ../inc/catchevolution-functions.php:909
-#: ../inc/catchevolution-functions.php:1160
+#: ../inc/catchevolution-functions.php:675 ../inc/catchevolution-functions.php:895
+#: ../inc/catchevolution-functions.php:1146
 #: ../inc/panel/customizer/customizer.php:635
 msgid "Email"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:809 ../inc/catchevolution-functions.php:1060
+#: ../inc/catchevolution-functions.php:795 ../inc/catchevolution-functions.php:1046
 #: ../inc/panel/customizer/customizer.php:435
 msgid "Facebook"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:814 ../inc/catchevolution-functions.php:1065
+#: ../inc/catchevolution-functions.php:800 ../inc/catchevolution-functions.php:1051
 #: ../inc/panel/customizer/customizer.php:445
 msgid "Twitter"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:819 ../inc/catchevolution-functions.php:1070
+#: ../inc/catchevolution-functions.php:805 ../inc/catchevolution-functions.php:1056
 #: ../inc/panel/customizer/customizer.php:455
 msgid "X Twitter"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:824 ../inc/catchevolution-functions.php:1075
+#: ../inc/catchevolution-functions.php:810 ../inc/catchevolution-functions.php:1061
 #: ../inc/panel/customizer/customizer.php:465
 msgid "Google+"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:829 ../inc/catchevolution-functions.php:1080
+#: ../inc/catchevolution-functions.php:815 ../inc/catchevolution-functions.php:1066
 msgid "Linkedin"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:834 ../inc/catchevolution-functions.php:1085
+#: ../inc/catchevolution-functions.php:820 ../inc/catchevolution-functions.php:1071
 #: ../inc/panel/customizer/customizer.php:475
 msgid "Pinterest"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:839 ../inc/catchevolution-functions.php:1090
+#: ../inc/catchevolution-functions.php:825 ../inc/catchevolution-functions.php:1076
 msgid "YouTube"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:844 ../inc/catchevolution-functions.php:1095
+#: ../inc/catchevolution-functions.php:830 ../inc/catchevolution-functions.php:1081
 #: ../inc/panel/customizer/customizer.php:495
 msgid "Vimeo"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:849 ../inc/catchevolution-functions.php:1100
+#: ../inc/catchevolution-functions.php:835 ../inc/catchevolution-functions.php:1086
 #: ../inc/panel/customizer/customizer.php:515
 msgid "AIM"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:854 ../inc/catchevolution-functions.php:1105
+#: ../inc/catchevolution-functions.php:840 ../inc/catchevolution-functions.php:1091
 #: ../inc/panel/customizer/customizer.php:525
 msgid "MySpace"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:859 ../inc/catchevolution-functions.php:1110
+#: ../inc/catchevolution-functions.php:845 ../inc/catchevolution-functions.php:1096
 #: ../inc/panel/customizer/customizer.php:535
 msgid "Flickr"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:864 ../inc/catchevolution-functions.php:1115
+#: ../inc/catchevolution-functions.php:850 ../inc/catchevolution-functions.php:1101
 #: ../inc/panel/customizer/customizer.php:545
 msgid "Tumblr"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:869 ../inc/catchevolution-functions.php:1120
+#: ../inc/catchevolution-functions.php:855 ../inc/catchevolution-functions.php:1106
 #: ../inc/panel/customizer/customizer.php:555
 msgid "deviantART"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:874 ../inc/catchevolution-functions.php:1125
+#: ../inc/catchevolution-functions.php:860 ../inc/catchevolution-functions.php:1111
 #: ../inc/panel/customizer/customizer.php:565
 msgid "Dribbble"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:879 ../inc/catchevolution-functions.php:1130
+#: ../inc/catchevolution-functions.php:865 ../inc/catchevolution-functions.php:1116
 #: ../inc/panel/catchevolution-themeoptions-defaults.php:278
 #: ../inc/panel/customizer/customizer.php:575
 msgid "WordPress"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:884 ../inc/catchevolution-functions.php:1135
+#: ../inc/catchevolution-functions.php:870 ../inc/catchevolution-functions.php:1121
 #: ../inc/panel/customizer/customizer.php:585
 msgid "RSS"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:889 ../inc/catchevolution-functions.php:1140
+#: ../inc/catchevolution-functions.php:875 ../inc/catchevolution-functions.php:1126
 #: ../inc/panel/customizer/customizer.php:595
 msgid "Slideshare"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:894 ../inc/catchevolution-functions.php:1145
+#: ../inc/catchevolution-functions.php:880 ../inc/catchevolution-functions.php:1131
 #: ../inc/panel/customizer/customizer.php:605
 msgid "Instagram"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:899 ../inc/catchevolution-functions.php:1150
+#: ../inc/catchevolution-functions.php:885 ../inc/catchevolution-functions.php:1136
 #: ../inc/panel/customizer/customizer.php:615
 msgid "Skype"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:904 ../inc/catchevolution-functions.php:1155
+#: ../inc/catchevolution-functions.php:890 ../inc/catchevolution-functions.php:1141
 #: ../inc/panel/customizer/customizer.php:625
 msgid "Soundcloud"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:914 ../inc/catchevolution-functions.php:1165
+#: ../inc/catchevolution-functions.php:900 ../inc/catchevolution-functions.php:1151
 #: ../inc/panel/customizer/customizer.php:645
 msgid "Contact"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:919 ../inc/catchevolution-functions.php:1170
+#: ../inc/catchevolution-functions.php:905 ../inc/catchevolution-functions.php:1156
 #: ../inc/panel/customizer/customizer.php:655
 msgid "Xing"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:924 ../inc/catchevolution-functions.php:1175
+#: ../inc/catchevolution-functions.php:910 ../inc/catchevolution-functions.php:1161
 #: ../inc/panel/customizer/customizer.php:665
 msgid "Meetup"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:929 ../inc/catchevolution-functions.php:1180
+#: ../inc/catchevolution-functions.php:915 ../inc/catchevolution-functions.php:1166
 #: ../inc/panel/customizer/customizer.php:675
 msgid "Goodreads"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:935 ../inc/catchevolution-functions.php:1186
+#: ../inc/catchevolution-functions.php:921 ../inc/catchevolution-functions.php:1172
 #: ../inc/panel/customizer/customizer.php:685
 msgid "Github"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:941 ../inc/catchevolution-functions.php:1192
+#: ../inc/catchevolution-functions.php:927 ../inc/catchevolution-functions.php:1178
 #: ../inc/panel/customizer/customizer.php:695
 msgid "VK"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:946 ../inc/catchevolution-functions.php:1197
+#: ../inc/catchevolution-functions.php:932 ../inc/catchevolution-functions.php:1183
 #: ../inc/panel/customizer/customizer.php:705
 msgid "Spotify"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:951 ../inc/catchevolution-functions.php:1202
+#: ../inc/catchevolution-functions.php:937 ../inc/catchevolution-functions.php:1188
 #: ../inc/panel/customizer/customizer.php:715
 msgid "Tiktok"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:956 ../inc/catchevolution-functions.php:1207
+#: ../inc/catchevolution-functions.php:942 ../inc/catchevolution-functions.php:1193
 #: ../inc/panel/customizer/customizer.php:725
 msgid "Bluesky"
 msgstr ""
 
-#: ../inc/catchevolution-functions.php:961 ../inc/catchevolution-functions.php:1212
+#: ../inc/catchevolution-functions.php:947 ../inc/catchevolution-functions.php:1198
 #: ../inc/panel/customizer/customizer.php:735
 msgid "Threads"
 msgstr ""
 
-#: ../inc/catchevolution-menus.php:89 ../inc/catchevolution-menus.php:129
-#: ../inc/catchevolution-menus.php:175 ../inc/catchevolution-menus.php:225
+#: ../inc/catchevolution-menus.php:99 ../inc/catchevolution-menus.php:139
+#: ../inc/catchevolution-menus.php:185 ../inc/catchevolution-menus.php:235
 msgid "Menu"
 msgstr ""
 
-#: ../inc/catchevolution-menus.php:95
+#: ../inc/catchevolution-menus.php:105
 msgid "Primary menu"
 msgstr ""
 
-#: ../inc/catchevolution-menus.php:136
+#: ../inc/catchevolution-menus.php:146
 msgid "Secondary menu"
 msgstr ""
 
-#: ../inc/catchevolution-menus.php:180 ../inc/catchevolution-menus.php:181
+#: ../inc/catchevolution-menus.php:190 ../inc/catchevolution-menus.php:191
 msgid "Top Menu"
 msgstr ""
 
-#: ../inc/catchevolution-menus.php:245
+#: ../inc/catchevolution-menus.php:255
 msgid "Footer menu"
 msgstr ""
 
