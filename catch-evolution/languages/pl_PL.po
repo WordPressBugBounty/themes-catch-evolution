@@ -1,4 +1,4 @@
-# Copyright (C) 2012-2022 the Catch Themes Team
+# Copyright (C) 2012-2026 the Catch Themes Team
 # This file is distributed under the  GNU General Public License.
 # Piotr <fansitepoprostugry@gmail.com>, 2013.
 msgid ""
